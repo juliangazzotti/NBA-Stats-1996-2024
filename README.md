@@ -18,8 +18,8 @@ Este dashboard interactivo analiza datos de la NBA, explorando la distribución 
 ⚙️ SQL & Excel → Extracción y limpieza de datos.
 
 📥 Datos
-Los datos utilizados fueron obtenidos de [https://www.kaggle.com/datasets/damirdizdarevic/nba-dataset-eda-and-ml-compatible/data](url) y procesados para su análisis.
+Los datos utilizados fueron obtenidos del siguiente [dataset](https://www.kaggle.com/datasets/damirdizdarevic/nba-dataset-eda-and-ml-compatible/data) y procesados para su análisis.
 
-📎 Enlace al Dashboard
-🔗 [tableau](https://public.tableau.com/app/profile/julian.gazzotti/viz/NBAStats1996-2024/NBAMyDreamTeam)
+📎 Enlace al Dashboar
+🔗 [NBA Stats 1996 - 2024](https://public.tableau.com/app/profile/julian.gazzotti/viz/NBAStats1996-2024/NBAMyDreamTeam)
 
