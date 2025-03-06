@@ -21,5 +21,5 @@ Este dashboard interactivo analiza datos de la NBA, explorando la distribución 
 Los datos utilizados fueron obtenidos de [https://www.kaggle.com/datasets/damirdizdarevic/nba-dataset-eda-and-ml-compatible/data](url) y procesados para su análisis.
 
 📎 Enlace al Dashboard
-🔗 [https://public.tableau.com/app/profile/julian.gazzotti/viz/NBAStats1996-2024/NBAMyDreamTeam](url)
+🔗 [tableau](https://public.tableau.com/app/profile/julian.gazzotti/viz/NBAStats1996-2024/NBAMyDreamTeam)
 
